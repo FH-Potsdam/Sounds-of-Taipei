@@ -1,10 +1,13 @@
 # Sounds of Taipei
 
+An interactive map of Taipei that let's you explore the city through its unique sounds.
+
+
 NTUT · National Taipei University of Technology  
 International Program for Interaction Design and Innovation  
 Special Topics on Interactive Media Design (II)
 
-Projcet by:  
+Project by:  
 <a href="https://www.behance.net/johannakomesker" target="_blank">Johanna Komesker</a>  
 <a href="https://www.behance.net/Monarupperf19f" target="_blank">Mona Ruppert</a>  
 <a href="https://www.linkedin.com/in/padschneider" target="_blank">Patrick Schneider</a>  
@@ -53,5 +56,5 @@ photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 
 `author`: Who recorded the sound   
 first letter from the frist name, first and second from the last name   
-Ex: **D**oantus **Wo**lf = `DWo`
+Ex: **D**onatus **Wo**lf = `DWo`
 
