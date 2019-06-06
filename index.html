@@ -13,7 +13,6 @@
     <link rel="mask-icon" href="assets/logo.svg" color="#ec4667">
 
     <script type='text/javascript' src='libraries/jquery-3.2.1.min.js'></script>
-    <script type='text/javascript' src='scripts.js'></script>
     <link rel='stylesheet' href='styles.css'>
 
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500,700,900" rel="stylesheet">
@@ -44,13 +43,18 @@
                     <p>Recorded at special events</p>
                 </li>
             </ul>
+            
         </div>
         <div class="bottom">
 
             <div class="credits">
-                <a href="https://www-en.ntut.edu.tw/bin/home.php" target="_blank">NTUT</a>
-                • <a href="https://fh-potsdam.github.io/Sounds-of-Taipei/" target="_blank">Github</a>
-                • <a href="mailto:sounds-of-taipei@donatuswolf.com">Contact</a> 
+                <div class="creditsleft">
+                    <a href="https://www-en.ntut.edu.tw/bin/home.php" target="_blank">NTUT</a> • 
+                    <a href="https://github.com/FH-Potsdam/Sounds-of-Taipei" target="_blank">Github</a>
+                </div>
+                <div class="creditsright">
+                    <a id="toggleTime" href="?time=night">toggle</a>
+                </div>
             </div>
         </div>
         
@@ -66,4 +70,5 @@
 </body>
 
 <script type='text/javascript' src='toggleSidebar.js'></script>
+<script type='text/javascript' src='scripts.js'></script>
 </html>

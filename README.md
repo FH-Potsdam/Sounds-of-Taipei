@@ -7,19 +7,22 @@ NTUT · National Taipei University of Technology
 International Program for Interaction Design and Innovation  
 Special Topics on Interactive Media Design (II)
 
+For any questions about this project, feel free to <a href="mailto:sounds-of-taipei@donatuswolf.com">contact us</a>.
+
 Project by:  
 <a href="https://www.behance.net/johannakomesker" target="_blank">Johanna Komesker</a>  
 <a href="https://www.behance.net/Monarupperf19f" target="_blank">Mona Ruppert</a>  
 <a href="https://www.linkedin.com/in/padschneider" target="_blank">Patrick Schneider</a>  
 <a href="https://donatuswolf.de" target="_blank">Donatus Wolf</a>  
 
-[![preview screenshot](/assets/preview.png)](https://fh-potsdam.github.io/Sounds-of-Taipei)  
- <a href="https://fh-potsdam.github.io/Sounds-of-Taipei" target="_blank">Go to website</a> 
+[![preview screenshot](/assets/preview.png)](https://fh-potsdam.github.io/Sounds-of-Taipei/)  
+ <a href="https://fh-potsdam.github.io/Sounds-of-Taipei/" target="_blank">Go to website</a> 
 
 Libraries used
 -
 
 * <a href="https://leafletjs.com" target="_blank">leaflet.js v1.4</a>
+* <a href="https://www.mapbox.com/mapbox-studio/" target="_blank">Mapbox Studio</a>
 * <a href="https://jquery.com" target="_blank">jquery.js v3.2.1</a>
 
 
